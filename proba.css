@@ -1,0 +1,75 @@
+h1 {
+    padding: 70px 0px 15px 0px;
+    text-align: center;
+}
+
+.home {
+    padding: 10px 50px 10px 50px;
+    margin-left: 200px;
+}
+
+.projects {
+    padding: 10px 50px 10px 50px;
+}
+
+.services {
+    padding: 10px 50px 10px 50px;
+}
+
+.downloads {
+    padding: 10px 50px 10px 50px;
+}
+
+.about {
+    padding: 10px 50px 10px 50px;
+}
+
+.contact {
+    padding: 10px 50px 10px 50px;
+}
+
+.project-name {
+    font-size: 20;
+    margin: 50px 0px 10px 185px;
+}
+
+.prvi-text {
+    text-align: center;
+    margin-left: 220px;
+    margin-right: 220px;
+    font-size: 15;
+}
+
+.zeleno-dugme {
+    background-color: rgb(49, 175, 49);
+    border-radius: 8px;
+    margin: 0 0 70 600;
+    color: white;
+    padding: 8px;
+}
+
+#jedan {
+    font-size: 25px;
+}
+
+#dva {
+    font-size: 25;
+}
+
+#kkk {
+    margin-left: 200;
+}
+
+p {
+    font-size: 10;
+}
+
+.zel {
+    color: white;
+    font-size: 15;
+}
+
+.pla {
+    background-color: rgb(23, 116, 192);
+    border-radius: 6px;
+}
